@@ -12,17 +12,17 @@ The project justifies the choice of the dataset for the corresponding AI/ML comp
  Mohamed M. U - IT2410050: 
  Handles Data Cleaning (Part 1 – Missing & Duplicates), including managing missing values, removing duplicates, and fixing invalid entries.
  
- Kariyasam G.K.A.L - IT4100: 
+ Kariyasam G.K.A.L - IT24100103: 
  Responsible for Data Cleaning (Part 2 – Outliers & Consistency Check), detecting outliers, ensuring data consistency, and correcting formatting.
  
- Dhararathne S.P.H. P - IT411:
+ Dhararathne S.P.H. P - IT24101328:
  Manages Data Preprocessing – Transformation & Encoding, applying scaling/normalization and encoding categorical variables.
  
- Ekanayake E.M.R. T - IT4120:
+ Ekanayake E.M.R. T - IT24102102:
  Oversees Feature Engineering & Data Splitting, creating new features, reducing dimensions if needed (e.g., PCA), and splitting data into train/test sets.
  
  Abeykoon D.M.D. N - IT24102379:
  Conducts Exploratory Data Analysis (EDA), generating descriptive statistics, analyzing correlations, and detecting trends/patterns.
  
- Disanayake M.A.T. D - IT4109:
+ Disanayake M.A.T. D - IT24100927:
  Focuses on Visualization, creating plots like histograms, scatter plots, heatmaps, and final charts for presentation.
