@@ -1,1 +1,6 @@
 # 2025-Y2-S1-KU-09-
+ **Overview of the project**
+ This project involves the use of machine learning (ML) to predict and improve sleep quality based on lifestyle, health, and demographic factors. Sleep quality is a significant predictor of well-being, which influences physical and emotional stability. Physical activity, BMI, blood pressure, heart rate, levels of stress, and daily activities all play significant roles in influencing sleep patterns. The project addresses real public health issues such as insomnia, sleep apnea, obesity, and chronic illness, which are largely related to abandoned lifestyle factors.
+The field of application is lifestyle and health-focused sleep disorder testing. By analyzing correlations in the data, the ML model is able to identify risk factors for bad sleep, enable early diagnosis, and provide personalized recommendations. This would be integrated into wellness apps, mHealth platforms, or company wellness initiatives to enhance well-being and reduce healthcare costs. The variables included in the data are age, gender, occupation, stress, physical activity, number of working hours, BMI, blood pressure, heart rate, and sleep duration, with the variable of interest being sleep quality (score categorization).
+
+**Dataset Details**
