@@ -6,3 +6,23 @@ The field of application is lifestyle and health-focused sleep disorder testing.
 
 **Dataset Details**
 The project justifies the choice of the dataset for the corresponding AI/ML component (sleep quality prediction) due to its size (over 15,000 records), variety of relevant features (e.g., age, BMI, stress level, physical activity, heart rate, sleep duration), and organized structure, minimizing preprocessing needs. Data is sourced from Kaggle (URL: [https://www.kaggle.com/imaginecoder/sleep-activity-level-bmi](https://www.kaggle.com/datasets/imaginativecoder/sleep-health-data-sampled)) and includes significant variables such as Sleep Duration, Physical Activity Level, Heart Rate, Blood Pressure, and BMI Category, with Quality of Sleep as the target for predictive modeling
+
+
+**Group Member Role**
+ Mohamed M. U - IT2410050: 
+ Handles Data Cleaning (Part 1 – Missing & Duplicates), including managing missing values, removing duplicates, and fixing invalid entries.
+ 
+ Kariyasam G.K.A.L - IT4100: 
+ Responsible for Data Cleaning (Part 2 – Outliers & Consistency Check), detecting outliers, ensuring data consistency, and correcting formatting.
+ 
+ Dhararathne S.P.H. P - IT411:
+ Manages Data Preprocessing – Transformation & Encoding, applying scaling/normalization and encoding categorical variables.
+ 
+ Ekanayake E.M.R. T - IT4120:
+ Oversees Feature Engineering & Data Splitting, creating new features, reducing dimensions if needed (e.g., PCA), and splitting data into train/test sets.
+ 
+ Abeykoon D.M.D. N - IT24102379:
+ Conducts Exploratory Data Analysis (EDA), generating descriptive statistics, analyzing correlations, and detecting trends/patterns.
+ 
+ Disanayake M.A.T. D - IT4109:
+ Focuses on Visualization, creating plots like histograms, scatter plots, heatmaps, and final charts for presentation.
