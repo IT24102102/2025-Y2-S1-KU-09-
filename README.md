@@ -28,7 +28,7 @@ The project justifies the choice of the dataset for the corresponding AI/ML comp
  Focuses on Visualization, creating plots like histograms, scatter plots, heatmaps, and final charts for presentation.
 
  **How to Run the Code**
- pip install pandas numpy matplotlib seaborn scikit-learn jupyter plotly.
+!pip install pandas numpy seaborn matplotlib category_encoders scikit-learn scipy
 
 **Required Libraries**
  pandas (data manipulation)
