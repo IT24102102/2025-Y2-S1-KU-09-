@@ -26,3 +26,5 @@ The project justifies the choice of the dataset for the corresponding AI/ML comp
  
  Disanayake M.A.T. D - IT24100927:
  Focuses on Visualization, creating plots like histograms, scatter plots, heatmaps, and final charts for presentation.
+
+ **How to Run the Code**
